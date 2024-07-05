@@ -1,0 +1,25 @@
+body{
+
+background-color:blue;
+ colour:white
+ background-repeat: no-repeat;
+ background-size:500%;
+
+}
+ marquee{
+    margin-left: 600px;
+    width: 250px;
+ }
+
+h3{
+     margin-left:700px;
+     text-shadow: 3px 3px 3px red;
+}
+
+
+
+   
+
+
+
+
